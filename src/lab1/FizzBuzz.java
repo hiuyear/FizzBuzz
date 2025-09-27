@@ -37,6 +37,8 @@ class FizzBuzz {
 
             System.out.println(i);
         }
+        // if statement ENDS
+        // increment i, return to main arg
         i++;
         return i;
     }
