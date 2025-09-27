@@ -56,7 +56,7 @@ which enables basic typesetting when viewed while still being a plaintext format
 editing and version control.
 
 Below is a blank checkbox:
-- [ ] Put an X in the [ ] (with no spaces) to mark this as done!
+- [X] Put an X in the [ ] (with no spaces) to mark this as done!
 
 You can edit this file directly to check off these checkboxes throughout the lab to mark things as done.
 Do so now for the checkbox above.
@@ -75,7 +75,7 @@ Formally as a coding task, let `i` be an integer greater than zero and output th
 * If `i` is divisible by 3 and 5, print the string `Fizz Buzz` (note the space)
 * Otherwise, print the value of `i`
 
-- [ ] Try a short game of Fizz Buzz with your team now.
+- [X] Try a short game of Fizz Buzz with your team now.
 
 ---
 
@@ -134,7 +134,7 @@ class FizzBuzz {
 }
 ```
 
-- [ ] Open `FizzBuzz.java` in the `src/lab1` directory and click the run button in the top left corner.
+- [X] Open `FizzBuzz.java` in the `src/lab1` directory and click the run button in the top left corner.
 
 If you don't see this button, you may need to mark `src` as the `Sources Root` for the project. You can do this
 by right-clicking the `src` directory in the `Project` tab and near the bottom of the context menu
@@ -154,7 +154,7 @@ the code are doing. For example, what's the Java version of Python's `and`? What
 on with that weird `for` loop? As you do this, you might find it useful to write down your
 own implementation in Python to help you begin to create a mapping between the two languages.
 
-- [ ] Make note of any specific Java syntax which stands out to you and compare what you
+- [X] Make note of any specific Java syntax which stands out to you and compare what you
 come up with the rest of your team. Try to come up with a list of at least five things that
 strike you as either similar to or different from Python.
 
@@ -196,7 +196,7 @@ test the calculation for several interesting numbers more easily.
 
 3. Immediately, type the method name you want, maybe something like `doFizzBuzz`.
 
-- [ ] Rerun the program to verify that it still works.
+- [X] Rerun the program to verify that it still works.
 
 That's your first big IntelliJ trick! There are lots more.
 
@@ -209,7 +209,7 @@ That's your first big IntelliJ trick! There are lots more.
 
 Now that you've made your first edits to your code, you should ask git to save these changes for you.
 
-- [ ] Open the Terminal tab in IntelliJ and type `git status`, it will show you that you have
+- [X] Open the Terminal tab in IntelliJ and type `git status`, it will show you that you have
   modified `FizzBuzz.java` (and possibly this README too!).
 
 We will save our local changes to `FizzBuzz.java` and then push the changes to your GitHub repository using
@@ -230,9 +230,9 @@ a sequence of three git commands:
    will need to do the actual push using IntelliJ. See the first tip below, which mentions how to perform
    the relevant git operations through IntelliJ's graphical user interface.
 
-- [ ] Once you execute these commands, you can check your GitHub repository to confirm that the changes have been made there.
+- [X] Once you execute these commands, you can check your GitHub repository to confirm that the changes have been made there.
 
-- [ ] repeat the above steps for `README.md` (or try using the approach below).
+- [X] repeat the above steps for `README.md` (or try using the approach below).
 
 > Tip: You can also use IntelliJ to execute these same steps using the graphical user interface it provides.
 If you have followed the software installation instructions, you should see `Git` in the menu bar at the top.
